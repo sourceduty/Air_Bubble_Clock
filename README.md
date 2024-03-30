@@ -1,4 +1,4 @@
-![Air Bubble Pressure Clock Design Concept](https://github.com/sourceduty/Air_Bubble_Clock/assets/123030236/bdedde2f-0cd4-41b6-a10a-51e71098ab8d)
+![Air Bubble Pressure Clock Design Concept](https://github.com/sourceduty/Air_Bubble_Clock/assets/123030236/e2da5c76-29de-4ca5-a3ce-fcbc5b7b007d)
 
 The Air Bubble Alarm Clock marries functionality with an intriguing visual display in a sleek, modern design. This timepiece features a unique mechanism that captivates as it marks the passing of time: every minute, a single air bubble is released and gracefully ascends through water within its clear, rectangular prism enclosure. Crafted to fit perfectly on a nightstand or office desk, its dimensions are proportioned to make an elegant yet practical addition to any room. The clock's exterior is fashioned from high-quality materials like acrylic or glass, chosen for their durability and clear visibility, with the option of a matte or glossy finish to suit various style preferences.
 
