@@ -43,5 +43,10 @@ Suggestions for Improvement:
 
 Overall, the Air Bubble Alarm Clock could be a unique and desirable product with the right execution and marketing. It's crucial to address potential concerns related to durability and ease of use to ensure it’s not only a novelty item but a practical addition to the consumer's home or office.
 
+#
+### Related Links
+
+[Modern Lava Lamp](https://github.com/sourceduty/Modern_Lava_Lamp)
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
